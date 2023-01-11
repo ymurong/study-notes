@@ -39,9 +39,9 @@ Fig. 1. Example of cost matrix.
 
 The misclassification error can then be expressed as an expected weighted loss, by multiplying each entry of the confusion matrix with the corresponding entry in the cost matrix {cite}`fernandez2018learning,gupta2020class`. Denoting by $WL$ this quantity (weighted loss), we get
 
-$$
+```math
 WL= \frac{TN*c_{00}+FN*c_{01}+FP*c_{10}+TP*c_{11}}{N}
-$$
+```
 
 The costs of true negatives and true positives is usually $0$, since these are the entries that correspond to correct classifications. This simplifies the expression of $WL$ to:
 
