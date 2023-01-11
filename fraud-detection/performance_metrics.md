@@ -45,9 +45,9 @@ WL= \frac{TN*c_{00}+FN*c_{01}+FP*c_{10}+TP*c_{11}}{N}
 
 The costs of true negatives and true positives is usually $0$, since these are the entries that correspond to correct classifications. This simplifies the expression of $WL$ to:
 
-$$
+```math
 WL= \frac{FN*c_{01}+FP*c_{10}}{N}
-$$
+```
 
 It is however in practice difficult to set the values $c_{01}$ and $c_{10}$ {cite}`dal2015adaptive`. 
 
