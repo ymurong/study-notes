@@ -43,3 +43,8 @@
   - remove words that occur in this dictionary 
 
 ### Stemming
+- Porter stemmer (lengthy rule based, FP, FN)
+- Dictionary-based stemming: run -> running, runs, runned. runly
+- New-words problem
+
+### Hybrid stemming (Krovetz stemmer)
