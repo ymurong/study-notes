@@ -4,7 +4,7 @@
 # Difference between subquery and correlated subquery
 
 1. order is different. 
-   subquery >> external
+   subquery >> external,
    external >> correlated subquery
 
 2. subquery is independant while correlated subquery is dependent on external query
