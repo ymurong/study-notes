@@ -1,5 +1,3 @@
-
-
 - [Content of Table](#content-of-table)
   - [torch.mul vs torch.mm](#torchmul-vs-torchmm)
   - [torch squeeze](#torch-squeeze)
@@ -14,8 +12,9 @@ import torch
 
 a = torch.rand(1, 2)
 b = torch.rand(1, 2)
-
 print(torch.mul(a, b))  # 返回 1*2 的tensor
+
+b = torch.rand(2, 3)
 print(torch.mm(a, c))   # 返回 1*3 的tensor
 ```
 
