@@ -1,6 +1,7 @@
 - [Content of Table](#content-of-table)
   - [torch.mul vs torch.mm](#torchmul-vs-torchmm)
   - [torch squeeze](#torch-squeeze)
+  - [torch cat](#torch-cat)
 
 # Content of Table
 
@@ -17,7 +18,7 @@ print(torch.mul(a, b))  # 返回 1*2 的tensor
 b = torch.rand(2, 3)
 print(torch.mm(a, c))   # 返回 1*3 的tensor
 ```
-
+[about matmul and bmm](https://blog.csdn.net/foneone/article/details/103876519)
 ## torch squeeze
 
 torch.squeeze(input, dim=None) 
@@ -36,4 +37,13 @@ print(torch.squeeze(a))  # 返回 (A x B x C x D)
 b = torch.rand(A, 1, B)
 print(torch.squeeze(b, dim=0))   # 返回 (A x 1 x B)
 print(torch.squeeze(b, dim=1))   # 返回 (A x B)
+```
+
+## torch cat
+Concatenates the given sequence of seq tensors in the given dimension. All tensors must either have the same shape (except in the concatenating dimension) or be empty.
+
+```python
+a = torch.rand(1,200)
+b = torch.rand(1,200)
+print(torch.cat((a,b), dim=0)) # 返回 (2x200)
 ```
