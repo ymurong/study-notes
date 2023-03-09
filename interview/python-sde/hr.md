@@ -1,7 +1,7 @@
 - [About Our Application in Production](#about-our-application-in-production)
 - [My job as Tech Lead](#my-job-as-tech-lead)
 - [Methodology and Management Tools](#methodology-and-management-tools)
-- [Tech Environment](#tech-environment)
+- [Tech Skills](#tech-skills)
 - [My New Master](#my-new-master)
   - [Motivation](#motivation)
   - [New knowledge](#new-knowledge)
@@ -49,11 +49,11 @@ JIRA(KANBAN-> Sprints), Confluence(Documentation), Agile(Planning, Daily Standup
 Personal schedule: Trello
 
 
-# Tech Environment
+# Tech Skills
 Language: Nodejs, Python
 
 GCP: 
-- GKE: application runs on k8s (ingress + deployment)
+- GKE: application runs on k8s (kustomization + kubectl, ingress + deployment)
 - Cloud Function (Nodejs, update apigee token)
 - Cloud storage: new file arrive -> trigger event to pubsub
 - PubSub -> agent listen to event and write something to database
@@ -61,7 +61,9 @@ GCP:
   - Strong skill in SQL/PL/SQL, my previous master is about analytical engineering ( Oracle (triggers, stored procedure ...) + SAP BO (dimensional modelling))
   - cloud datawarehouse (new to me but willing to learn, very interested in it)
   - Bigquery ML (good machine learning knowledge from school and practicals)
-- Airflow, dbt
+
+Azure:
+- really want to learn...
 
 Devops:
 - CICD (daily)
@@ -70,12 +72,26 @@ Devops:
 - Ansible (extensive experience in deploying/configuration with a suite of middlewares) -> not like it very much
 - Terraform (less experienced as not infrastructure engineer, mainly use it to manage resources for application needs)
 
+Middleware:
+- API Mananger, ESB
+- IDP
+- Vault
+
 
 Database:
 - Postgres (oltp)
 - Sqlite (embedded oltp)
 - Duckdb (embedded olap)
+- NoSQL (only used in school but want to try, such as redis, mongo, dynamoDB, cassandra, elastic)
 
+
+Data Pipeline:
+- Spark
+- Airflow (want to learn)
+
+Broker:
+- RabbitMQ
+- Kafka (want to learn)
 
 Clean code:
 - function name 
@@ -134,6 +150,7 @@ Clean code:
 - transport allowance (1k/year), meal allowance? (1.5k), medical insurance (mutuelle)
 - vacations: 25+10 RTT? extra?
 - salary -> management style? churn rate problem? work overtime? 
+- laptop ?
 - company status quo? vision? 
 
 

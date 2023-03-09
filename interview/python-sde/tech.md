@@ -7,6 +7,7 @@
         - [Lexical Scopes (Static Scope)](#lexical-scopes-static-scope)
         - [Closure](#closure)
         - [Hoisting](#hoisting)
+        - [Keyword This](#keyword-this)
 
 
 # Tech Details
@@ -32,7 +33,7 @@ FastAPI:
 
 Express:
 - joi
-- got
+- got, axios
 - node-cache
 - cron
 - sequelize
@@ -51,8 +52,8 @@ Node has more and better libraries for streaming a/v and other buffery stuff, re
 #### Tricky Concepts about JS
 ##### Lexical Scopes (Static Scope)
 - Lexical Scopes
-- Arrow Function with Lexical Scopes
-
+- Arrow Function with Lexical This
+  - arrow function does not have local context, so js will search outside
 
 ##### Closure
 The closure is when a function "remembers" its lexical scope even when the function is executed outside that lexical scope. It preserves the link to a variable.
@@ -61,3 +62,10 @@ The closure is when a function "remembers" its lexical scope even when the funct
 - var and function declaration hoist
 - const, let don't hoist, TDZ error
 - function expression don't hoist (assignment part)
+
+##### Keyword This
+A function's this references the execution context for that call, determined entirely by how the function was called (Implicit binding)
+
+- Explicit Binding
+  - call function (call, apply)
+  - recreate the function by specifying the context

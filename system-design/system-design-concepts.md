@@ -15,6 +15,7 @@
     - [Search system](#search-system)
     - [Transaction-based systems](#transaction-based-systems)
     - [Off-line computing](#off-line-computing)
+    - [Real-time computing](#real-time-computing)
 
 
 # Consistent Hashing
@@ -114,7 +115,8 @@ Such as inventory, transactions, bookkeeping, consider choosing relational + cac
 
 ### Off-line computing
 Consider choosing columnar or relational type for large amount of data analysis
-Real-time computing
+
+### Real-time computing
 Such as real-time monitoring, you can consider choosing in-memory or columnar database
 
 In design practice, based on the requirements, business-driven architecture, regardless of the choice of RDB/NoSQL/DRDB, must be demand-driven, the final data storage solution is bound to be a comprehensive set of various trade-offs.
