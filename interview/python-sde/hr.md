@@ -93,12 +93,26 @@ Broker:
 - RabbitMQ
 - Kafka (want to learn)
 
-Clean code:
-- function name 
-- explicit types 
-- documentation
-- pep8 format code
-- design patterns
+Clean, scalable & efficient code:
+- Clean, Maintainable
+  - OOP: SOLID + design patterns
+  - function name 
+  - explicit types 
+  - documentation
+  - pep8 format code
+- Scalable code (server level???)
+  - horizontal scalability 
+  - cache
+  - statelessness
+  - functional programming
+    - pure function -> same input, same output
+- Efficient
+  - appropriate algo: time & space complexity
+  - using functions, class properly
+  - eliminate unessential operations
+  - minimal use of ifelse
+  - avoid declaring unnecessary variables
+  
 
 
 
