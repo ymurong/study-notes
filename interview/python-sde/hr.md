@@ -4,6 +4,8 @@
 - [Tech Skills](#tech-skills)
 - [My New Master](#my-new-master)
   - [Motivation](#motivation)
+  - [Master Courses](#master-courses)
+  - [School Projects (Python Based)](#school-projects-python-based)
   - [New knowledge](#new-knowledge)
 - [How to keep Tech Update](#how-to-keep-tech-update)
   - [Sources](#sources)
@@ -25,23 +27,28 @@ We build a marketplace-type application that allows end-users of the whole compa
 
 
 - Tech Contributions
-  - Devops (Jenkins -> Gitlab CI,  AWS -> GCP, IAAS -> CAAS, complete CICD pipelines (testing, deploy -> dev, qa, prod))
-  - Refactoring 
-    - Many Nodejs from frontend and are not accustomed to proper OOP -> hard to maintain
-    - [Design Pattern](../../system-design/design-pattern.md) 
+  - Refactoring by applying the SOLID principle and design patterns (NodeJS) 
+    - Strategy, Chain, Composite, Singleton, Factory, Facade, Proxy
     - Error handling + Documentation (customer faced and technical faced, we show them on our admin UI)
-  - New Features
+  - New Features (NodeJS)
     - add event/messaging service (solace)
     - add scope based subscription with multiple identity provider support (subscribe-> request roles/scopes to service provider)
     - initiate the dashboard (more functional insights for billing/usage) -> technical insights we have dynatrace
-  - other miscellaneous projects
-    - Python: File transfer tool (cloud based)
-      - daemon agent in python
-      - cloud storage (new file trigger event) -> pubsub(listener) -> write to database -> UI (existing module -> transfer history)
-    - Python: Ansible Runner API (automatic monitoring/config of nginx servers)
-    - Java: Middleware custom extension (authentication module)
-    - RabbitMQ Config API POC (not really used as we found it is better to use Gitlab with terraform and bash/python)
-    - cloud function project (update apigee access token to our vhosts)
+  - Tooling (Python)
+    - File transfer tool 
+      - Agent will listen to PubSub's queue (new file arrival), push to local queue and use ThreadPoolExecutor to run file transfer jobs and ack when transfer is done correctly
+      - Transfer records would be stored/updated in database and shown in UI (useful for debugging purpose)
+    - Ansible Runner API (Flask)
+      - A wrapper of ansible runner module that can be configured to run ansible playbooks through API and return results
+      - Very useful when we have a large list of servers to configure/monitor
+    - Cron Jobs via Cloud Function
+      - update access tokens for our middleware every hour
+      - enhance security by integrating Vault
+  - Devops
+    - Migrate from Jenkins to GitlabCI (scripting)
+    - Migrate from AWS to GCP K8S (terraform + kustomize)
+    - App Containerization (IAAS -> CAAS)
+    - Complete CICD pipelines (Testing, Deploy)
 
 
 # Methodology and Management Tools
@@ -125,6 +132,31 @@ Clean, scalable & efficient code:
 - usually skilled software engineers are unwilling to work on nodejs/python (less jobs, less paid, language issues/preference...???)
 
 
+## Master Courses
+- Statistics and Optimizations: Inferential Statistics: parametric/non-parametric tests (anova, ancova, kruskal, etc), model diagnostics, uncertainty analysis, Integer Linear / Combinatorial / Simulation / Stochastic Dynamic Optimization
+- Applied Machine Learning: text processing, classic ML, deep learning (computer vision)
+- Applied Forecasting in Complex Systems: probabilistic and time series modeling
+- Bigdata: distributed big data processing, programming models for parallelizable programs
+• Causal Data Science: causal inferences modeling and testing
+• NLP 1: fundamental techniques for a range of tasks in natural language processing (NLP), with a particular focus on statistical and machine learning approaches
+• Information Retrieval 1: state-of-the-art techniques that constitute the core of information retrieval (IR) systems, such as search engines, recommender systems, conversational agents, etc.
+
+My career motivation is Python software/data engineer in DSE (DS/AI/Data Engineering) domain. The master program equips me with not only theoretical background knowledge with optimization and statistics but also crucial foundational skills in terms of machine learning, deep learning and data engineering. What's more, the master also provides me with crucial people network with university researchers and professors in CV, NLP, BigData domain as well as skilled classmates who are passionate about AI/DS. Combined with my previous software engineering/devops skills and experience, I could become a valuable asset to future engineering teams in building AI products of the future.
+
+## School Projects (Python Based)
+The following projects requires familiarity with most common python libraries in data science, machine learning and deep learning. some projects are built with FastAPI framework. 
+Neural-based projects are based on pre-trained models with fine-tuning
+
+- CV: Food Image Recognition Multi-Class Classification with EfficientNet
+- NLP: Question Answer Multi-Class Classification with Bert
+- IR: Document Search Engine from Scratch (Traditional: TFIDF + BM25 + Neural: Bert cross-encoder, bi-encoder, sparse-retrieval)
+- (FastAPI) Classic ML: Explainable/Fair Fraud Detection in Payment Industry - Adyen (Random Forest, XGBoost, LGBM, Voting)
+- (FastAPI) BigData: Academic References Deduplication at Scale
+
+Libraries: fastapi, pydantic, sqlalchemy, pickle, scipy, pytorch, transformers, numpy, pandas, duckdb, sklearn, nltp, networkx, fairlearn, lime, shap, etc
+
+
+
 ## New knowledge
 - Machine Learning, Deep Learning, MLOps (feature stores, models etc...)
   - pretrained model with Computer Vision/NLP (school projects: most work in preprocessing, evaluation and tuning, actually really engineering oriented)
@@ -135,6 +167,12 @@ Clean, scalable & efficient code:
   - References deduplication (fastapi)
   - Adyen: fraud detection (fastapi)
 - ignore other more statistical/analytical knowledge (causal, graph)
+
+
+Data science master in University of Amsterdam, available beginning of Avril 2023 for job opportunities.
+
+Related Projects:
+
 
 # How to keep Tech Update
 ## Sources
