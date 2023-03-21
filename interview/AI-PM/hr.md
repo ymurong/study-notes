@@ -1,14 +1,11 @@
 # Tell me about yourself
 
+Currently I am on gap year, doing my master on data science in UVA. I will be finishing all the courses at the end of March and be able to start working at April. Besides, I already have a master in information system in france and a business Baccalauréat au Gestion from a top business school in China.
+
+Before the gap year, I am a Tech Lead in Renault in charge of an IT marketplace application that allows developers of the whole company to manage web services. As it is a technical application, I am also serving as product owner of this application, collecting requirements for governance team, managing the roadmap and backlog, define the release, coordinating with cross-function teams, organizing the agile ceromonies, coaching young developers, constantly looking for innovations and new ideas, etc
+
 In terms of personalities:
 I will describe myself as a highly accountable and results-driven individual who is committed to continuous learning and growth. I am proactive and motivated in searching for solutions when facing problems and challenges. I am empathetic and good at thinking in others' shoes. I also like coaching and sharing knowledge.
-
-In terms of profession and academic background:
-I have a unique combination of technical and management background and speaks both business and technical languages. I care about how technologies creates value for actual users and want to become the bridge between tech and business. 
-
-Before the gap year, I am a Tech Lead in Renault in charge of an IT marketplace application that allows developers of the whole company to manage web services. The application starts 5 years ago from scratch and now we have 5951 users, 12996 active subscriptions, 1464 consumers in production. As it is a technical application, I am also serving as product owner of this application, collecting requirements for governance team, managing the roadmap and backlog, coordinating with cross-function teams, organizing the agile ceromonies, coaching young developers, constantly looking for innovations and new ideas, etc
-
-In order to update myself with ML/AI technologies and expand my network in this domain, I took my gap year and come to do my second master. I have finished all the courses and projects and ready to embrace new challenges.
 
 
 # Biggest strength
@@ -41,11 +38,13 @@ How I influence the team to achieve the objective. In adyen project, in the begi
 - Me, less math, but have both business and tech background (more exprienced than them), so I implictly lead the three presentations, the planning, coaching, collaroting, contributing.
 
 
-# Questions for recruiters
+# Questions
 
+AI/DATA which part is more important in this role ?
 
+Pkoi on a eu cette nouveau poste ?
 
-
+I will get my diploma next year (part time two years mais j'ai deja fini tous les cours), (je peux fournir mes releve de notes) would it be a problem for the company?
    
 
 
