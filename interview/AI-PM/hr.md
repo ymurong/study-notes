@@ -44,7 +44,7 @@ AI/DATA which part is more important in this role ?
 
 Pkoi on a eu cette nouveau poste ?
 
-I will get my diploma next year (part time two years mais j'ai deja fini tous les cours), (je peux fournir mes releve de notes) would it be a problem for the company?
+I will get my diploma next year (part time two years mais j'ai deja eu suffisamment de credits), (je peux fournir mes releve de notes) would it be a problem for the company?
    
 
 
