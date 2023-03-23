@@ -67,6 +67,12 @@ Ensure the team have the right data / enough data to build the models that they 
 
 
 
+# My vision of PM in data/AI
+1. PM responsibilties (what, when, why) through active listening + research (quantitative + qualitative)
+2. Intersection of UX,TECH,BUSINESS,DATA: compromise (benefits vs complexity), collaborate with cross functional teams, communication with stakeholders
+3. manage more uncertainties and expectations
+
+
    
 
 

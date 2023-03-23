@@ -4,23 +4,35 @@ Actuellement, je suis en année sabbatique et je poursuis mon deuxième master e
 
 Avant mon année sabbatique, j'étais chef de projet technique chez Renault, responsable d'une application de place de marché informatique qui permet aux développeurs de l'ensemble de l'entreprise de gérer les services web. Comme il s'agit d'une application technique, je suis également product owner de cette application, collectant les exigences pour l'équipe de gouvernance, gérant la feuille de route et le backlog, coordonnant les équipes interfonctionnelles, organisant les cérémonies agiles, encadrant les jeunes développeurs, cherchant constamment des innovations et de nouvelles idées, etc.
 
-En termes de personnalité :
+En termes de personnalité:
 Je me décrirais comme une personne hautement responsable et axée sur les résultats, engagée dans l'apprentissage continu et proactive et motivée dans la recherche de solutions face aux problèmes et aux défis. Je suis empathique et doué pour penser aux autres. J'aime aussi coacher et partager mes connaissances.
 
-# Ma plus grande force :
-Mon expérience et ma façon de penser uniques. Je peux créer et exécuter une stratégie à un niveau élevé tout en comprenant les difficultés d'exécution au niveau de l'ingénierie. En tant que chef de produit, il est vraiment important de voir le grand tableau des valeurs réelles que vous apportez aux utilisateurs, tout en étant réaliste et pragmatique compte tenu des contraintes techniques / de coûts actuelles. L'optimisation est la clé.
+# Ma plus grande force:
+Mon parcours mixe sur business et tech avec une espirit produit. Je peux créer et exécuter une stratégie à un niveau élevé tout en comprenant les difficultés d'exécution au niveau de l'ingénierie. Ce parcours me permet d'avoir une image globale sur des valeurs réelles que vous apportez aux utilisateurs, tout en étant réaliste et pragmatique compte tenu des contraintes techniques et de retour sur investissement. Chercher une optimisation est la clé.
 
 
-# Ma plus grande faiblesse :
-Je suis très analytique, mais dans des situations très ambiguës ou incertaines (sans preuve exacte), je peux avoir des difficultés de confiance pour prendre des décisions. Dans ce cas, j'essaie généralement de discuter avec différentes équipes pour rechercher différentes perspectives.
+# Ma plus grande faiblesse:
+- J'aime bien planifier/faire les choses en avance, mais des fois c peux donner la pression aux parti prenants.
+
 
 # Pourquoi devriez-vous m'embaucher ?
 
-J'ai cultivé de nombreuses compétences techniques dans le domaine de l'ingénierie logicielle.
-J'ai un parcours mixte.
-J'ai une connaissance fondamentale dans le domaine de l'IA/DS et je connais des personnes à la fois de l'académie et de l'industrie dans ce domaine.
-J'ai une forte capacité d'apprentissage et je suis prêt à relever des défis pour améliorer continuellement mes compétences techniques et interpersonnelles.
-J'ai des intérêts variés dans la vie et je peux être un très bon membre d'équipe pour ajouter de la diversité à l'équipe.
+1. Proofing record in leading a industry level IT product at both strategic and executional level. Sitting at the intersection of UX, TECH, BUSINESS, I know how to collaborate and compromise between these cross-functional teams.
+2. I have a foundational knowledge in DE/DS/AI domain thanks to my educational and industrial experience. 
+    - better understand/manage the uncertainties that a Data/AI product has, 
+    - better understand the needs of a data/ai product and ensure the team has the enough and right data to deliver results - better communicate/coach AI with stakeholders across the company
+3. I have a entrepreneur spirit and assume the responsibility of ensuring the success of given product
+4. I am a analytics oriented person and make decisions based on proofs, either from data or from other cross function teams
+    - able to explore, prioritize, and action on ideas
+5. I have broad interests in life and can be a very good team member to add some sugar and butter in the diversity of the team.
+
+
+# My vision of PM in data/AI
+1. PM responsibilties (what, when, why) through active listening + research (quantitative + qualitative)
+2. Intersection of UX,TECH,BUSINESS,DATA: compromise (benefits vs complexity), collaborate with cross functional teams, communication with stakeholders
+3. manage more uncertainties and expectations
+
+
 
 # Pourquoi Decathlon ?
 Decathlon est ma marque de sport préférée.

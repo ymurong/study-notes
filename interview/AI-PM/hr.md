@@ -1,31 +1,60 @@
+- [Tell me about yourself](#tell-me-about-yourself)
+- [Biggest strength](#biggest-strength)
+  - [Example:](#example)
+- [Greatest weakness](#greatest-weakness)
+- [why should we hire you](#why-should-we-hire-you)
+- [Why decathlon](#why-decathlon)
+- [Adyen ML Project](#adyen-ml-project)
+  - [Show leadership](#show-leadership)
+- [Questions](#questions)
+
+
+
 # Tell me about yourself
 
-Currently I am on gap year, doing my master on data science in UVA. I will be finishing all the courses at the end of March and be able to start working at April. Besides, I already have a master in information system in france and a business Baccalauréat au Gestion from a top business school in China.
+Currently I am on gap year, doing my master on data science in UVA. I will be finishing all the courses at the end of March and be able to start working at April. Besides, I already have a master in information system in france and a business licence au Gestion from a top business school in China.
 
 Before the gap year, I am a Tech Lead in Renault in charge of an IT marketplace application that allows developers of the whole company to manage web services. As it is a technical application, I am also serving as product owner of this application, collecting requirements for governance team, managing the roadmap and backlog, define the release, coordinating with cross-function teams, organizing the agile ceromonies, coaching young developers, constantly looking for innovations and new ideas, etc
 
 In terms of personalities:
-I will describe myself as a highly accountable and results-driven individual who is committed to continuous learning and growth. I am proactive and motivated in searching for solutions when facing problems and challenges. I am empathetic and good at thinking in others' shoes. I also like coaching and sharing knowledge.
+I will describe myself as a highly accountable and results-driven individual who is committed to continuous learning and growth. I am proactive and motivated in searching for solutions when facing problems and challenges. I am empathetic and good at thinking in others' shoes. 
 
 
 # Biggest strength
-My unique background and mindset. I can create and execute a strategy at a high level while also understanding the execution difficulties at an engineering level. As a product manager, it is really important to see the big picture of the actual values that you brought to the users but at the same time being realistic and pragmatic given the current tech/cost constraints. Optimization is the key. 
+My unique background and product mindset. I can define and execute a strategy at a high level while also understanding the execution difficulties at an engineering level. As a product manager, it is really important to see the big picture of the actual values that you brought to the users but at the same time being realistic and pragmatic given the current tech/cost constraints. Optimization is the key. 
 
-Example: Google presales with the new CAAS API platform. (I need to convince the decision makers that the new platform is not mature enough to replace current platform. Relatively new with tech limits, the migration/custom dev costs are high, existing application unmatch with CAAS model, most importantly, little value for users with larger risk of production issues) but on the same time, I need also to think of long terms plans since if one day google said they completely stop supporting IAAS mode, then there would be larger risk. Google does not have smooth migration for their customers which is incredibly unprofessional ... even for google.... never over trust cloud providers and think far...
+## Example: 
+Context: Présales Google avec la nouvelle plateforme API CAAS.
+
+Conflict:
+- Business teams, Bigboss, My direct boss all very interested
+- Me: I am open to the idea but I still have concerns as I know the details of our existing applications and it is not that simple
+
+Solution: I did an analysis on cost, risks, feasibility. In order to convince them, I try to find the common interests as each stakeholder has their own priorities, je montre que aller cette solution tres rapidement peut avoir les consequences negative plus important que les benefices. Eventually I succced to turn the conflict into alignment.
+
+Biensur, je propose aussi un PLAN B recompenser les choses.
+
 
 # Greatest weakness
-- I am really analytical, but under very ambiguous or uncertain situations (no exact proof), I may have trouble of confidence in making decisions. In this case, I usually try discuss with different teams to seek for different perspectives
+- J'ai bien planifier/faire les choses en avance, mais des fois c peux donner la pression aux parti prenants.
+
+
 
 # why should we hire you
-1. I have cultivated many hard skills in software engineering domain. 
-2. I have a mixed background.
-3. I have a foundational knowledge in AI/DS domain and know people both from academia and industry in this domain
-4. I have strong learning ability and ready to accept challenges to continuously improve my hard/soft skills. 
+1. Proofing record in leading a industry level IT product at both strategic and executional level. Sitting at the intersection of UX, TECH, BUSINESS, I know how to collaborate and compromise between these cross-functional teams.
+2. I have a foundational knowledge in DE/DS/AI domain thanks to my educational and industrial experience. 
+    - better understand/manage the uncertainties that a Data/AI product has, 
+    - better understand the needs of a data/ai product and ensure the team has the enough and right data to deliver results - better communicate/coach AI with stakeholders across the company
+3. I have a entrepreneur spirit and assume the responsibility of ensuring the success of given product
+4. I am a analytics oriented person and make decisions based on proofs, either from data or from other cross function teams
+    - able to explore, prioritize, and action on ideas
 5. I have broad interests in life and can be a very good team member to add some sugar and butter in the diversity of the team.
 
 # Why decathlon
-1. Decathlon is my favourite brand sports brand.
-2. I really like the point of sales done by Decathlon (smooth shopping experience with a lot of innovations). But I also see problems, and many possible AI innovations that can bring to it to improve. NLP in customer experience (waiting for explanations are tiresome). CV in customer experience, demand forecasting, inventory management, and more.
+1. Decathlon is my favorite sports store, loyal customer myself. You have good quality products of all levels. The store is full of innovations with close tech integration, people who work in shops are always energetic. I always enjoy talking to sales who work in stores
+2. I like the vision: bring the sports to the many and company culture: not only the tech4good idea, but also their efforts in being a socially responsible company
+(Optional) 
+3. But I also see improvement and would like to improve it.....and many possible AI innovations that can bring to it to improve. NLP in customer experience (waiting for explanations are tiresome). CV in customer experience, demand forecasting, inventory management, and more.
 
 
 # Adyen ML Project
@@ -40,18 +69,9 @@ How I influence the team to achieve the objective. In adyen project, in the begi
 
 # Questions
 
-AI/DATA which part is more important in this role ?
-
 Pkoi on a eu cette nouveau poste ?
 
 I will get my diploma next year (part time two years mais j'ai deja eu suffisamment de credits), (je peux fournir mes releve de notes) would it be a problem for the company?
-   
-
-
-
-
-
-¸`
 
 
 

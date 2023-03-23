@@ -17,6 +17,7 @@ Contribuer à l’élaboration de la roadmap et la planification de futures vers
 Rédiger des Users Stories et définir des critères de succès.
 
 Créer, maintenir et prioriser le backlog produit.
+
 Définir et prioriser les fonctionnalités du produit en recueillant le feedback utilisateur et en menant des ateliers avec les développeurs, le business et les métiers.
 
 Pratiquer les méthodes agiles et participer à l’ensemble des cérémonies.
