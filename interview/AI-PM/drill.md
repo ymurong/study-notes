@@ -14,7 +14,7 @@ My unique background in business, engineering and data. big picture in business 
 Very organized, prefer to do plan things in advance, but sometimes pressure on cross functional teams
 
 # Role of PM
-1. entrepreneur/leadship -> what, when, why
+1. entrepreneur/leadership -> what, when, why
 2. problem solver -> identify problems (data, feedback) -> assumption (5 why) -> test assumption (data/interview) -> root cause -> solutions
 3. communication & collaboration (someone who sit in UX/BUZ/TECH/DATA) -> listening, research, compromise between benefits and complexity, common interests
 4. manage uncertainties (time, investment, performance) and expectation (ai is risky and not the best solution to all problems)
