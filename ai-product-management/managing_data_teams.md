@@ -11,7 +11,7 @@ AI & data product investments are risky
   - high benefit, low complexity (must do) -> regression + decision trees
   - low benefit, low complexity (can do)
   - low benefit, high complexity (do case by case)
-  - high benefit, low complexity (need to do)
+  - high benefit, high complexity (need to do)
 - evaluate position in the hierarchy of AI needs, risk aversion of your organization -> decides the work prioritization
 
 
