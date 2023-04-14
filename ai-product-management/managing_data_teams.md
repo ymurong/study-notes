@@ -66,7 +66,6 @@ Reduce Waiting gaps, allow all team members to work simulatenously
 - DEV & Delivery (DS)
   - The sourced data sets are used to begin exploring and modelling
 
-# Vlue 
 
 
 

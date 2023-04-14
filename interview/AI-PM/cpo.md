@@ -117,6 +117,22 @@ Developer -> Tech Lead -> Data Product Owner -> Senior Data Product Manager (Dat
 - Data Management Skills: manage data legacy, data integration and data governance
 - Business Understanding -> identify data opptunities to improve business performance
 
+# Backlog Refinement (Definition of Ready)
+
+In Scrum, Backlog Refinement is an ongoing process in which the Product Owner and the Development Team collaborate to ensure that items on the Product Backlog:
+- are understood the same way by all involved (shared understanding),
+- have a size estimate for the (relative) complexity and effort of their implementation, and
+- are ordered according to their priority in terms of business value and effort required.
+
+# Dual-Triple Track Agile
+Reduce Waiting gaps, allow all team members to work simulatenously
+- Discovery Track (PM)
+  - validating a series of product ideas to put in the backlog
+- Data Track (DE)
+  - Datasets associated with these validated ideas are being sourced and prepared
+- DEV & Delivery (DS)
+  - The sourced data sets are used to begin exploring and modelling
+
 
 # Questions
 1. Roadmap des produits 
