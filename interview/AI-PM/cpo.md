@@ -11,7 +11,7 @@
    - attitude (motivates others emotionally)
 
 2. Execution 
-   - objectives (5W2H) <- SMART
+   - objectives (5W2H) <- SMART (Specific, measurable, actionable, realistic, timely)
    - resources (kickoff = buzz+objectives+rules)
    - planning (roadmap + backlog + kanban)
    - action (cope with uncertainties)
@@ -39,7 +39,7 @@
 
 1. Sprint Planning (half day)
    - Input: Team Capacity, Backlog
-   - Output: But Sprint, List US
+   - Output: But Sprint, List US (INVEST)
    - Action: Explain US
 2. Daily (15 min)
    - Input: 3 Questions
@@ -103,19 +103,33 @@ We believe our new users have a problem finding other users they want to follow 
 
 # Comment s'assurer de l'engagement des parties prenantes du produit jusqu'à la mise en marché
 
-3I (Interests, Influence, Impact)
+1. Identify Stakeholders: 3I (Interests, Influence, Impact), Users, Cross-Functional Team
 
-Users, Cross-Functional Team
+2. Communication (depending on different stakeholders):
+   - Users: comprendre les problems, Collecter Feedback, manage expectation, tenir informe, training
+   - Cross functional team leaders: establish les agreements on roles and responsabilities (deadline, cost, risks), find common interests, collaboration spirit
+   - Boss: inform important modifications/risks, connecter le boss avec l'equipe, find/proof pain point and give solution
+   - Other Teams get impacted: active listening (helpful knowledge), informe and answer questions
 
-Communication(Feedback, Problems), Objective Communs(expectation), Mecanism de Suivi, Training
+
+# How to influence your data team (leadership)
+6 forces
+1. execution (initiative to fill the gap of responsibilties, you start you end)
+2. information (everyone know you and willing to give you information)
+3. observervation
+4. transparence
+5. listening
+6. coaching
+
+
 
 
 # Career Planning
 
 Developer -> Tech Lead -> Data Product Owner -> Senior Data Product Manager (Data Manager) -> Director BU Data -> CDO
 - Leadership and communication skills: through product/project management
-- Data Management Skills: manage data legacy, data integration and data governance
-- Business Understanding -> identify data opptunities to improve business performance
+- Data Management Skills: familiarity with data analytics, data governance, data quality, data architecture
+- Business Understanding: identify data opptunities to improve business performance
 
 # Backlog Refinement (Definition of Ready)
 
